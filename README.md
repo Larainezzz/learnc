@@ -1,0 +1,2 @@
+# learnc
+something about tutorial
